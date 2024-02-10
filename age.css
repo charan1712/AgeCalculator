@@ -10,8 +10,8 @@
     align-items: center;
 }
 #container{
-    width: 30vw;
-    height: 50vh;
+    width: 400px;
+    height: 400px;
     background-image: url(./Asset/images/image13.jpg);
     background-size: 100% 100%;
     /* background-color: yellow; */
