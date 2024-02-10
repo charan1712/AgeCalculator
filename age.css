@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#agecontainer{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#container{
+    width: 30vw;
+    height: 50vh;
+    background-image: url(./Asset/images/image13.jpg);
+    background-size: 100% 100%;
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#inps{
+    position: absolute;
+    top: 40%;
+}
+.inp1{
+    background-color: transparent;
+}
+#data{
+    position: absolute;
+    top: 45%;
+    left: 44%;  
+}
+#ac{
+    position: absolute;
+    top: 30%;
+    background-image:linear-gradient(75deg,yellow,orange,yellow,red,yellow,orangered,yellow);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
