@@ -3,15 +3,15 @@
     padding: 0px;
 }
 #agecontainer{
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 #container{
-    width: 400px;
-    height: 400px;
+    width: 30%;
+    height: 50%;
     background-image: url(./Asset/images/image13.jpg);
     background-size: 100% 100%;
     /* background-color: yellow; */
